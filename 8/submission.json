@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, cinematic wide shot of the interior of a massive, ancient stone cylindrical tower. A lone traveler is seen from a distance. The traveler is climbing a series of short, sturdy wooden ladders. Each individual ladder is clearly angled upward, leaning against a stone ledge. However, the architectural geometry is paradoxical: every time the traveler reaches the top of a ladder and steps onto a new stone platform, that platform is physically lower in the tower than the base of the ladder they just climbed. The lighting is misty and atmospheric with sunbeams filtering through high slits. No text, no numbers, no diagrams. The scene feels physically real but logically impossible.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "The image presents an impossible architectural space where small, localized upward movements (the ladders) create a global downward trajectory, embodying Simpson's Paradox where a consistent subgroup trend reverses when groups are combined."
+}
